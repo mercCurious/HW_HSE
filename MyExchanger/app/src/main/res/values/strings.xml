@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyExchanger</string>
+
+    <string-array name="currency">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CHF</item>
+        <item>UAH</item>
+        <item>KZT</item>
+        <item>CNY</item>
+        <item>BYN</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
